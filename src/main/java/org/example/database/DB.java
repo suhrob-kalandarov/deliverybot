@@ -1,12 +1,10 @@
 package org.example.database;
-
 import com.pengrad.telegrambot.model.Location;
 import org.example.User;
 import org.example.order.Order;
 import org.example.order.OrderedItem;
 import org.example.Category;
 import org.example.Product;
-
 import java.util.*;
 
 public interface DB {
